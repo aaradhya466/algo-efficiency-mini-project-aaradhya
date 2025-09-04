@@ -1,4 +1,4 @@
-# Algorithm Efficiency Mini Project
+# Algorithm Efficiency Mini Project - Aaradhya
 
 This project implements and analyzes multiple algorithms with profiling on **time & memory usage**.
 
